@@ -1,4 +1,5 @@
-# time_converter: This microservice is used to convert time from one timezone to another. 
+# Time converter: 
+This microservice is used to convert time from one timezone to another. 
 Rabbitmq is necessary for this process.
 TO run this program:
    1. Open terminal and enter: python receive.py
