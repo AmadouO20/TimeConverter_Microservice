@@ -6,6 +6,9 @@ TO run this program:
    2. Open another terminal and enter: python send.py
    3. From the testing suite provided, you can adjust date, time, and timezone to your preference: ![image](https://github.com/AmadouO20/time_converter/assets/122078816/01f73c7a-1749-4d06-8bd6-57674cc4f7f9)
    4. Go back to the receive.py terminal and you should see the newly converted time
+   5. UML sequence diagram
+      ![image](https://github.com/AmadouO20/time_converter/assets/122078816/61dfc5fe-698c-482c-a885-9395ba7b69f3)
+
 
 
 
